@@ -68,15 +68,21 @@
       </plugin>
     </plugins>
   </build>
+  <repositories>
+    <repository>
+      <url>http://shiruka.minecraftevi.com:8080/portlek/shiruka</url>
+      <id>artipie</id>
+    </repository>
+  </repositories>
   <profiles>
     <profile>
-      <id>artipie</id>
       <distributionManagement>
         <repository>
           <url>http://shiruka.minecraftevi.com:8080/portlek/shiruka</url>
           <id>artipie</id>
         </repository>
       </distributionManagement>
+      <id>artipie</id>
     </profile>
   </profiles>
 </project>
