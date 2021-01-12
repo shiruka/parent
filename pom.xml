@@ -73,7 +73,7 @@
       <id>artipie</id>
       <distributionManagement>
         <repository>
-          <url>http://hermanos.minecraftevi.com:8080/portlek/shiruka</url>
+          <url>http://shiruka.minecraftevi.com:8080/portlek/shiruka</url>
           <id>artipie</id>
         </repository>
       </distributionManagement>
