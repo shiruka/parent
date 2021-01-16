@@ -78,11 +78,11 @@
     <profile>
       <distributionManagement>
         <repository>
-          <url>http://shiruka.minecraftevi.com:8081/repository/maven-releases/</url>
+          <url>http://repo.shiruka.net/repository/maven-releases/</url>
           <id>shiruka</id>
         </repository>
         <snapshotRepository>
-          <url>http://shiruka.minecraftevi.com:8081/repository/maven-snapshots/</url>
+          <url>http://repo.shiruka.net/repository/maven-snapshots/</url>
           <id>shiruka</id>
         </snapshotRepository>
       </distributionManagement>
