@@ -71,7 +71,7 @@
   </build>
   <repositories>
     <repository>
-      <url>http://repo.shiruka.net/repository/maven-public/</url>
+      <url>https://repo.shiruka.net/repository/maven-public/</url>
       <id>shiruka</id>
     </repository>
   </repositories>
@@ -79,11 +79,11 @@
     <profile>
       <distributionManagement>
         <repository>
-          <url>http://repo.shiruka.net/repository/maven-releases/</url>
+          <url>https://repo.shiruka.net/repository/maven-releases/</url>
           <id>shiruka</id>
         </repository>
         <snapshotRepository>
-          <url>http://repo.shiruka.net/repository/maven-snapshots/</url>
+          <url>https://repo.shiruka.net/repository/maven-snapshots/</url>
           <id>shiruka</id>
         </snapshotRepository>
       </distributionManagement>
