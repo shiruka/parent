@@ -72,11 +72,11 @@
   <repositories>
     <repository>
       <url>https://repo.shiruka.net/snapshots/</url>
-      <id>shiruka</id>
+      <id>shiruka-snapshots</id>
     </repository>
     <repository>
       <url>https://repo.shiruka.net/releases/</url>
-      <id>shiruka</id>
+      <id>shiruka-releases</id>
     </repository>
   </repositories>
   <profiles>
