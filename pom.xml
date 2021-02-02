@@ -71,11 +71,11 @@
   </build>
   <repositories>
     <repository>
-      <url>https://repo.shiruka.net/repository/snapshots/</url>
+      <url>http://repo.shiruka.net/repository/snapshots/</url>
       <id>shiruka-snapshots</id>
     </repository>
     <repository>
-      <url>https://repo.shiruka.net/repository/internal/</url>
+      <url>http://repo.shiruka.net/repository/internal/</url>
       <id>shiruka-releases</id>
     </repository>
   </repositories>
