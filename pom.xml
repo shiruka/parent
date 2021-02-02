@@ -71,23 +71,19 @@
   </build>
   <repositories>
     <repository>
-      <url>http://repo.shiruka.net/snapshots/</url>
-      <id>shiruka-snapshots</id>
-    </repository>
-    <repository>
-      <url>http://repo.shiruka.net/releases/</url>
-      <id>shiruka-releases</id>
+      <url>http://repo.shiruka.net/repository/public/</url>
+      <id>shiruka</id>
     </repository>
   </repositories>
   <profiles>
     <profile>
       <distributionManagement>
         <repository>
-          <url>http://repo.shiruka.net/releases/</url>
+          <url>http://repo.shiruka.net/repository/releases/</url>
           <id>shiruka</id>
         </repository>
         <snapshotRepository>
-          <url>http://repo.shiruka.net/snapshots/</url>
+          <url>http://repo.shiruka.net/repository/snapshots/</url>
           <id>shiruka</id>
         </snapshotRepository>
       </distributionManagement>
