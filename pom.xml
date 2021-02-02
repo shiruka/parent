@@ -71,24 +71,8 @@
   </build>
   <repositories>
     <repository>
-      <url>http://repo.shiruka.net/repository/snapshots/</url>
-      <id>shiruka-snapshots</id>
-      <releases>
-        <enabled>false</enabled>
-      </releases>
-      <snapshots>
-        <enabled>true</enabled>
-      </snapshots>
-    </repository>
-    <repository>
-      <url>http://repo.shiruka.net/repository/internal/</url>
-      <id>shiruka-releases</id>
-      <releases>
-        <enabled>true</enabled>
-      </releases>
-      <snapshots>
-        <enabled>false</enabled>
-      </snapshots>
+      <url>http://repo.shiruka.net/repository/public/</url>
+      <id>shiruka</id>
     </repository>
   </repositories>
   <profiles>
