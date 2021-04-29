@@ -35,7 +35,7 @@
   <!-- @todo #1:1m Move to net.shiruka -->
   <groupId>io.github.shiruka</groupId>
   <artifactId>parent</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0.0-SNAPSHOT</version>
   <name>parent</name>
   <packaging>pom</packaging>
   <description>A parent pom project to simplify maven files.</description>
